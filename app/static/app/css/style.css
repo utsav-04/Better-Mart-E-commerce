@@ -1,0 +1,97 @@
+.owl-carousel .item{
+ /* border: 1px solid black; */
+ font-size: 24px;
+ text-align: center;
+ margin-top: 20px;;
+}
+
+.owl-next{
+ float:right;
+}
+.owl-prev{
+ float:left;
+}
+.owl-prev span{
+ font-size: 24px;
+ font-weight: bold;
+}
+.owl-next span{
+ font-size: 24px;
+ font-weight: bold;
+}
+
+.footer
+{
+    width: 100%;
+    text-align: center;
+    padding: 4px 0;
+}
+
+.icon .fa-brands {
+    color: #f44336;
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+}
+
+.col, .row
+{
+    width: 100%;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    
+}
+
+.col{
+    display: inline-block;
+    vertical-align: top;
+}
+
+._8Qljeg {
+    padding: 0 34px;
+    color: #535050;
+    background-color: #f7eded;
+}
+
+
+._8Qljeg ._1Vtd9D {
+    clear: both;
+    line-height: 18px;
+    font-size: 13px;
+    margin: 40px 0 20px;
+}
+
+._8Qljeg h2, ._8Qljeg h3, ._8Qljeg h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+._2uz0vJ {
+    border-top: 1px solid #454d5e;
+    padding: 25px 0;
+    margin-top: 40px;
+    width: 100%;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: rgb(93 62 4 / 52%);
+}
+
+
+._2uz0vJ .hDTmm5 {
+    color: rgb(30, 25, 25);
+    margin-left: 8px;
+}
+
+
+
