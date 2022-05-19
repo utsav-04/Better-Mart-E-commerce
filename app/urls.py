@@ -53,7 +53,9 @@ urlpatterns = [
 
     path('paymentdone/', views.payment_done, name='paymentdone'),
     
-    path('registration/', views.CustomerRegistrationView.as_view() , name="customerregistration")
+    path('registration/', views.CustomerRegistrationView.as_view() , name="customerregistration"),
+
+    path('search/', views.SEARCH, name='search')
 
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 

@@ -242,4 +242,14 @@ class ProfileView(View):
             reg.save()
             messages.success(request, 'Profile Updated Successfully!!')
         return render(request, 'app/profile.html' , {'form':form , 'active':'btn-primary'})
+
+
+def SEARCH(request):
+    query=request.GET.get('query')
+    prosearch = Product.objects.filter(title__icontains =query)
+
+    context= {
+        'prosearch':prosearch
+    }
+    return render(request,'app/search.html',context)
             
