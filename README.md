@@ -18,7 +18,7 @@ Tidio Live Chatbot.
 
 # Images :--
 
-![Screenshot 2022-05-03 171853](https://user-images.githubusercontent.com/100127451/168476710-ce0314ec-8f79-408e-9239-bad5bd8ec345.jpg)
+
 ![Screenshot 2022-05-03 171952](https://user-images.githubusercontent.com/100127451/168476712-a36330de-acb9-4140-8003-e19447842f79.jpg)
 ![Screenshot 2022-05-03 172133](https://user-images.githubusercontent.com/100127451/168476715-7b9c8f38-dd6f-428c-9199-e5b22ac9b0bd.jpg)
 ![Screenshot 2022-05-03 172206](https://user-images.githubusercontent.com/100127451/168476716-afff63d8-ce52-4093-861f-52488905fa96.jpg)
