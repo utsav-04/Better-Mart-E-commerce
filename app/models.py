@@ -7,6 +7,7 @@ from django.contrib.auth.models import User
 from django.core.validators import MaxValueValidator,MinValueValidator
 
 
+
 STATE_CHOICES = (
 
     ('Andaman & Nicobar Islands','Andaman & Nicobar Islands'),
