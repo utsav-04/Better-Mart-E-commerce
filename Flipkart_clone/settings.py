@@ -24,10 +24,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 #SECRET_KEY = os.environ['SECRET_KEY']
 SECRET_KEY = 'django-insecure-ap%se7^)3x&c-g(s4h4d^p7ezxp1&fug(xsp=_-kbkbg1mi6+i'
 # SECURITY WARNING: don't run with debug turned on in production!
-#DEBUG = False
-DEBUG = True
-#ALLOWED_HOSTS = ["better-mart.herokuapp.com","localhost"]
-ALLOWED_HOSTS = []
+DEBUG = False
+#DEBUG = True
+ALLOWED_HOSTS = ["better-mart.herokuapp.com","localhost"]
+#ALLOWED_HOSTS = []
 
 # Application definition
 
