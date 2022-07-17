@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT testdj.wsgi:application
+web: gunicorn Flipkart_clone.wsgi --log-file -
