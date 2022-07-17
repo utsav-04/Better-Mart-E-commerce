@@ -17,4 +17,3 @@ virtualenv-clone==0.5.7
 virtualenvwrapper==4.8.4
 virtualenvwrapper-win==1.2.7
 whitenoise==6.2.0
-python==3.10.2
